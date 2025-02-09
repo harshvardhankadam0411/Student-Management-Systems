@@ -1,2 +1,2 @@
 # Student-Management-Systems
-Auther - Harshvardhan Kadam
+Author - Harshvardhan Kadam
